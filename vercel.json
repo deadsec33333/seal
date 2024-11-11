@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/news/neil-the-seal-dead-after-car-collision-in-hobart",
+        "destination": "/news/neil-the-seal-dead-after-car-collision-in-hobart.html"
+      }
+    ]
+  }
+  
