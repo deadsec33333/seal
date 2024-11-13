@@ -1,18 +1,8 @@
 {
-    "rewrites": [
-      {
-        "source": "/neil-the-seal-dead-after-car-collision-in-hobart",
-        "destination": "/neil-the-seal-dead-after-car-collision-in-hobart.html"
-      },
-      {
-        "source": "/molly-the-magpie-dead-after-electrocution-leaving-peggy-devestated",
-        "destination": "/molly-the-magpie-dead-after-electrocution-leaving-peggy-devestated.html"
-      },
-      {
-        "source": "/Teal-the-seal-dead-after-car-collision-in-hobart",
-        "destination": "/Teal-the-seal-dead-after-car-collision-in-hobart.html"
-      }
-    ]
-    
-  }
-  
+  "rewrites": [
+    {
+      "source": "/teal-the-seal-dead-after-car-collision-in-hobart",
+      "destination": "/teal-the-seal-dead-after-car-collision-in-hobart.html"
+    }
+  ]
+}
