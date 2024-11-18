@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/neal-the-seal-dead-after-car-collision-in-hobart",
-      "destination": "/neal-the-seal-dead-after-car-collision-in-hobart.html"
+      "source": "/neal-the-seal-dead-after-car-collision",
+      "destination": "/neal-the-seal-dead-after-car-collision-in.html"
     }
   ]
 }
